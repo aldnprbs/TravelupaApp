@@ -6,7 +6,7 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 
-// Menggunakan font default sistem, tidak perlu file font tambahan
+// Kode ini menggunakan font default sistem, jadi tidak akan ada error
 val AppTypography = Typography(
     headlineLarge = TextStyle(
         fontFamily = FontFamily.Default,
